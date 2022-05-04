@@ -39,6 +39,6 @@ Though it should be mentioned that it reached better accuracy than ResNet18 with
 
 ### Conclusions
 
-DenseNet121 is better classifier for image recognition task, though it takes longer to train the pretrained model.
+DenseNet121 is better classifier for image recognition task, it takes longer to train the pretrained model, so for some tasks, ResNet18 can be beneficial.
 
 ##### Disclaimer: This code is based on the capstone project from IBM Deep Learning professional course on edX.
